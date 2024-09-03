@@ -1,0 +1,55 @@
+ul {
+    list-style-type: none;
+}
+
+li {
+    float: left;
+    margin: auto;
+    padding-top: 25px;
+    padding-right: 5px;
+    /* list-style-type: none; */
+}
+
+nav {
+    height: 100px;
+    background-color: aqua;
+    padding: 10px;
+    border: solid aqua;
+    border-radius: 10px;
+}
+
+a {
+    text-decoration: none;
+    padding: 10px;
+    color: blueviolet;
+    border: solid rgb(47, 95, 255);
+    border-radius: 10px;
+}
+
+a:hover {
+    background-color: purple;
+    color: white;
+}
+
+.skill-container {
+    display: flex;
+    padding: 5px 110px;
+    border: solid;
+    border-radius: 5px;
+
+
+
+}
+
+.item {
+    color: rgb(32, 218, 100);
+    border: solid rgb(19, 88, 19);
+    border-radius: 5px;
+    margin: 2px 2PX;
+    padding: 2PX;
+
+}
+
+h3 {
+    text-align: center;
+}
